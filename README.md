@@ -1,7 +1,7 @@
 # EDA - Análisis Exploratorio del Dataset Titanic con Pandas
 
 ##  Descripción del Proyecto
-[cite_start]Este proyecto implementa el flujo completo de análisis de datos (cargar -> explorar -> limpiar -> transformar -> analizar) basado en el Capítulo 2 de Géron [cite: 11] [cite_start]utilizando exclusivamente la librería `pandas`. [cite_start]El objetivo fundamental es determinar los factores determinantes asociados con la probabilidad de supervivencia durante el trágico hundimiento del RMS Titanic el 15 de abril de 1912[cite: 9, 13].
+Este proyecto implementa el flujo completo de análisis de datos (cargar -> explorar -> limpiar -> transformar -> analizar) basado en el Capítulo 2 de Géron utilizando exclusivamente la librería `pandas`. El objetivo fundamental es determinar los factores determinantes asociados con la probabilidad de supervivencia durante el trágico hundimiento del RMS Titanic el 15 de abril de 1912.
 
 ---
 
